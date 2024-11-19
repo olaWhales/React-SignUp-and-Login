@@ -1,0 +1,29 @@
+*{
+    margin: auto;
+    padding: 10px;
+    border: 50px;
+    color: #ff3700;
+    background-color: rgb(20, 21, 23);
+}
+
+.input{
+    width: 200px;
+    background-color: hsl(78, 50%, 80%);
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    border-radius: 10px;
+}
+.btn{
+    width: 100px;
+    height: 40px;
+    background-color: rgb(214, 214, 229);
+    justify-content: center;
+    display: flex;
+    margin: auto;
+    border-radius: 50px;
+}
+.existUser{
+    color: red;
+    text-align: center;
+}
